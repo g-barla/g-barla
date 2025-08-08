@@ -1,3 +1,6 @@
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=g-barla&label=Profile%20views&color=0e75b6&style=flat" alt="g-barla" />
+</p>
 ## Hi there, I am Geetika
 
 <!--
