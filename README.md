@@ -100,9 +100,10 @@ I'm actively upskilling in key areas of data and analytics through hands-on cert
 
  Staying current with industry trends helps me bring the best of engineering and analytics together — smarter pipelines, cleaner data, and better insights.
 
-### 🚀 Explore My Work
+### 🚀 My Project Repositories
 ---
-Below you'll find repositories showcasing end-to-end data pipelines, dashboard development, machine learning integrations, and hands-on work with SQL and R.
+
+Below you'll find repositories showcasing my hands-on work with data engineering, analytics, and dashboarding using SQL, R, Python, and modern cloud tools.
 <!--
 **g-barla/g-barla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
