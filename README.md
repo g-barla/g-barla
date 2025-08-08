@@ -1,6 +1,6 @@
 <img src="https://komarev.com/ghpvc/?username=g-barla&label=Profile%20views&color=0e75b6&style=flat" alt="g-barla" />
 
-## Hi there, I am Geetika
+## Hi 👋, I am Geetika Barla 
 
 <!--
 **g-barla/g-barla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
