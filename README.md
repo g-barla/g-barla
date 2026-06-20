@@ -16,9 +16,7 @@
 ### 👩‍💻 About Me
 
 The data is only as good as how it was built. That's the part I focus on. My background in engineering shaped how I think about analytics, not just what the numbers say, but how they were collected, cleaned, and structured to get there.
-
-That mindset has shaped the kind of work I gravitate toward — building the systems that sit between raw data and real decisions. Right now that looks like API integrations, audience segmentation frameworks, and campaign trackers in the creator economy. The goal is always the same: helping brands figure out which partnerships actually move the needle.
-
+That mindset has shaped the kind of work I gravitate toward. Building the systems that sit between raw data and real decisions. Right now that looks like API integrations, audience segmentation frameworks, and campaign trackers, turning complex datasets into structured outputs that people can actually act on.
 I am drawn to work where you are not just handed a clean dataset but responsible for the whole thing, start to finish.
 
 **What I work with:** Python, SQL, Power BI, Azure, Snowflake, REST APIs
