@@ -1,4 +1,4 @@
-<img src="https://komarev.com/ghpvc/?username=g-barla&label=Profile%20views&color=0e75b6&style=flat" alt="g-barla" />
+<img src="https://komarev.com/ghpvc/?username=g-barla&label=Profile%20views&color=4b112e&style=flat" alt="g-barla" />
 
 ## Hi 👋, I am Geetika Barla
 ### 🎯 Turning raw data into real insights, powered by engineering and AI
