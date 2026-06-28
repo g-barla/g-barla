@@ -1,6 +1,6 @@
 <img src="https://komarev.com/ghpvc/?username=g-barla&label=Profile%20views&color=871f5d&style=flat" alt="g-barla" />
 
-## Hi 👋, I am Geetika Barla
+## Geetika Barla | Data Engineer and BI Engineering
 ### 🎯 Turning raw data into real insights, powered by engineering and AI
 
 <p>
