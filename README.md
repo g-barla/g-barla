@@ -15,13 +15,7 @@
 
 ### 👩‍💻 About Me
 
-The data is only as good as how it was built. That's the part I focus on. My background in engineering shaped how I think about analytics, not just what the numbers say, but how they were collected, cleaned, and structured to get there.
-That mindset has shaped the kind of work I gravitate toward. Building the systems that sit between raw data and real decisions. Right now that looks like API integrations, audience segmentation frameworks, and campaign trackers, turning complex datasets into structured outputs that people can actually act on.
-I am drawn to work where you are not just handed a clean dataset but responsible for the whole thing, start to finish.
-
-**What I work with:** Python, SQL, Power BI, Azure, Snowflake, REST APIs
-
-**What I'm building toward:** BI Analyst and Analytics Engineer roles.
+I build data systems that go from raw ingestion to stakeholder-ready insights. Currently working in creator analytics at HardScope: MCP servers, audience intelligence, and partnership analytics. On the engineering side, I've built ETL pipelines handling 100M+ records, designed star schema models in Snowflake using Medallion Architecture, and worked with Azure Data Factory end-to-end. Check the projects below.
 
 ---
 
